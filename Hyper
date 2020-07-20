@@ -118,10 +118,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.facebook.com/Shohag.HyperFounder')
+            os.system('xdg-open https://www.facebook.com/Shohag.HyperFounder/')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://www.facebook.com/Shohag.HyperFounder')
+        os.system('xdg-open https://www.facebook.com/Shohag.HyperFounder/')
 
 def login():
   os.system('clear')
