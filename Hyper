@@ -87,7 +87,7 @@ print  """
 
 """
 
-jalan("\033[1;97m•◈•────────•◈ It's Hyper Spamming Team •◈•────────•◈•")  
+jalan("\033[1;97m•◈•─────────•◈ It's Hyper Spamming Team •◈•─────────•◈•")  
 
 
 jalan("\033[1;96m•◈•  _   ___   ______  _____ ____  ___ ___  _   _ ____   ")
@@ -102,7 +102,7 @@ jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")
 
 jalan("   \033[1;93m Welcome to Hyper Creations ")
 
-jalan("\033[1;97m•◈•────────────•◈•\033[1;96mHyperions\033[1;96m•◈•────────────•◈•")
+jalan("\033[1;97m•◈•──────────────•◈•\033[1;96mHyperions\033[1;96m•◈•──────────────•◈•")
 
 CorrectUsername = "hyper"
 CorrectPassword = "hyper"
